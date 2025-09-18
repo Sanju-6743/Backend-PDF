@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.python-version
+
+# App data
+uploads/
+processed/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.log
